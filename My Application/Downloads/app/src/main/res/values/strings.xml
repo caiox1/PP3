@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="BtTexto">Enviar</string>
+    <string name="BtCampo">Digite um número de 1 á 19</string>
+    <string name="TVresult">O resultado aparecera aqui</string>
+    <string name="ValInv">Valor inválido</string>
+</resources>
